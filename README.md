@@ -1,11 +1,10 @@
 <h2> Hi, I'm LRVT!</h2>
 
+<img align='right' src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif" height="150">
+
 [![Ghost: LRVT7](https://img.shields.io/badge/Ghost--Blog-Visit-red)](https://blog.lrvt.de)
 [![PrivateBin](https://img.shields.io/badge/PrivateBin-E2EE-yellow)](https://paste.lrvt.de)
 [![GitHub l4rm4nd](https://img.shields.io/github/followers/l4rm4nd?label=follow&style=social)](https://github.com/l4rm4nd)
-
-
-<img align='right' src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif" width="200" height="105">
 
 <p>
   <ul>
@@ -13,9 +12,6 @@
     <li>DevOps Enthusiast @ Night</li>
     </ul>
 </p>
-
-
-
 
 ### A little more about me...  
 
@@ -27,5 +23,4 @@ const hacker = {
   mantra: "Keep learning until I die!"
 }
 ```
-
 ---
