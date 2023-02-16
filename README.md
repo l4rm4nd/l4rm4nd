@@ -1,16 +1,33 @@
-### Hi there 👋
+<h2> Hi, I'm LRVT!</h2>
 
-<!--
-**l4rm4nd/l4rm4nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Ghost: LRVT7](https://img.shields.io/badge/Ghost--Blog-Visit-red)](https://blog.lrvt.de)
+[![PrivateBin](https://img.shields.io/badge/PrivateBin-E2EE-yellow)](https://paste.lrvt.de)
+[![GitHub l4rm4nd](https://img.shields.io/github/followers/l4rm4nd?label=follow&style=social)](https://github.com/l4rm4nd)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align='right' src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/6OrCT1jVbonHG/giphy.gif" width="200" height="112">
+<img align='right' src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200">
+
+<p>
+  <ul>
+    <li>Ethical Hacker @ Daytime</li>
+    <li>DevOps Enthusiast @ Night</li>
+    </ul>
+</p>
+
+
+
+
+### A little more about me...  
+
+```javascript
+const hacker = {
+  ethical: true,
+  sector: "Offensive Security",
+  certs: ["OSCP", "CRTP", "OSWP"],
+  mantra: "Keep learning until I die!"
+}
+```
+
+---
