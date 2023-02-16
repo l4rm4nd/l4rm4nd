@@ -5,9 +5,9 @@
 [![GitHub l4rm4nd](https://img.shields.io/github/followers/l4rm4nd?label=follow&style=social)](https://github.com/l4rm4nd)
 
 
-<img align='right' src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif" width="200">
-<img align='right' src="https://media.giphy.com/media/6OrCT1jVbonHG/giphy.gif" width="200" height="112">
-<img align='right' src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif" width="200" height="105">
+<img align='right' src="https://media.giphy.com/media/6OrCT1jVbonHG/giphy.gif" width="200" height="105">
+<img align='right' src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200" height="102">
 
 <p>
   <ul>
