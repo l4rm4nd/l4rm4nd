@@ -1,6 +1,6 @@
 <h2> Hi, I'm LRVT!</h2>
 
-<img align='right' style="margin-bottom: 30px" src="https://github-readme-stats.vercel.app/api?username=l4rm4nd" height="140">
+<img align='right' style="margin-bottom: 30px" src="https://github-readme-stats.vercel.app/api?username=l4rm4nd" height="140"><p>
 
 [![Ghost: LRVT7](https://img.shields.io/badge/Ghost--Blog-Visit-red)](https://blog.lrvt.de)
 [![PrivateBin](https://img.shields.io/badge/PrivateBin-E2EE-yellow)](https://paste.lrvt.de)
