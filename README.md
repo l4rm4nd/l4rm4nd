@@ -22,8 +22,15 @@ const hacker = {
   mantra: "Keep learning until I die!"
 }
 ```
+<details>
+  <summary><b>Stats</b></summary>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=l4rm4nd&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l4rm4nd&hide=TeX&layout=compact&theme=dark)
+
+</details>
+
+
 
 <details>
   <summary><b>Trophies</b></summary>
