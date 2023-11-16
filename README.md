@@ -17,7 +17,6 @@
 const hacker = {
   ethical: true,
   sector: "Offensive Security",
-  certs: ["OSCP", "CRTP", "OSWP"],
   mantra: "Keep learning until I die!"
 }
 ```
