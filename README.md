@@ -17,7 +17,7 @@
 const hacker = {
   ethical: true,
   sector: "Offensive Security",
-  mantra: "Keep learning until I die!"
+  mantra: "Keep learning!"
 }
 ```
 
