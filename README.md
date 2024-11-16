@@ -1,6 +1,6 @@
 ## Hi, I'm LRVT! <img src="https://raw.githubusercontent.com/l4rm4nd/l4rm4nd/main/wave.gif" width="30">
 
-[![Ghost: LRVT7](https://img.shields.io/badge/Ghost--Blog-Visit-red)](https://blog.lrvt.de)
+[![Ghost: LRVT7](https://img.shields.io/badge/blog-visit-red)](https://blog.lrvt.de)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=l4rm4nd.l4rm4nd)
 [![GitHub l4rm4nd](https://img.shields.io/github/followers/l4rm4nd?label=follow&style=social)](https://github.com/l4rm4nd)
 
