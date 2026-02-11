@@ -21,6 +21,7 @@ const hacker = {
 }
 ```
 
+<!--
 <details>
   <summary><b>Stats</b></summary>
 
@@ -37,6 +38,6 @@ const hacker = {
 ![trophy](https://github-profile-trophy.vercel.app/?username=l4rm4nd&no-bg=true&no-frame=true&theme=darkhub&row=1&column=10)
 
 </details>
-
+<!--
 
 ---
